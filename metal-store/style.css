@@ -1,0 +1,50 @@
+/* styles.css */
+
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #474747;
+}
+
+/* Estilos do cabeçalho */
+header {
+
+    background-color: #000000;
+    color: #000000;
+    padding: 10px;
+    text-align: center;
+}
+head img{
+    width: 300px;
+    height: 400px;
+}
+
+/* Estilos da barra de navegação */
+nav {
+    background-color: #444;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+/* Estilos da seção de conteúdo */
+section {
+    padding: 20px;
+    margin: 10px;
+}
+
+/* Estilos do rodapé */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
